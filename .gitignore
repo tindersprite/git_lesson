@@ -1,2 +1,3 @@
 *.dat
 Results/
+!Results/data # This will mean that Results/data isn't ignored, but everything else in Results/ will be
