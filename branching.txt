@@ -1,1 +1,3 @@
 This is me creating a file in my own repository, so I can understand how branches and pull requests work.
+
+It seems that I cannot easily revert to a prior version, which seems odd.
